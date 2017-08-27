@@ -1,0 +1,6 @@
+ id =            1
+ fname = foo                                               
+ lname = bar                                               
+ age =           10
+ wage =    100.000000    
+ active =  T
